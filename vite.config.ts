@@ -81,8 +81,8 @@ function figmaSiteConfiguration(config: FigmaSiteConfiguration): Plugin {
     return html.replace(`<!-- ${slotName} -->`, content)
   }
 
-  const title = config.title ?? "Figma Make App"
-  const description = config.description ?? ''
+  const title = config.title ?? "TechFest IIT Bombay"
+  const description = config.description ?? 'TechFest is the annual science and technology festival of IIT Bombay. It is the largest of its kind in Asia, attracting students, professionals, and enthusiasts from all over the world. Come, be a part of the legacy!'
   const favicon = config.icons?.icon ?? ''
   const socialImage = config.openGraph?.image ?? ''
   const language = sanitizeHtmlValue(config.language) || 'en'

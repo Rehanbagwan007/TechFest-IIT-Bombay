@@ -1,0 +1,10 @@
+{
+  "description": "Experience an immersive landing page for Techfest IIT Bombay, showcasing innovative technology events with stunning 2D visuals and engaging animations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

@@ -19,7 +19,7 @@
 
 <br/>
 
-[🔴 Live Demo](#) &nbsp;•&nbsp; [📸 Screenshots](#-screenshots) &nbsp;•&nbsp; [⚙️ Tech Stack](#%EF%B8%8F-tech-stack) &nbsp;•&nbsp; [🚀 Getting Started](#-getting-started)
+[🔴 Live Demo](https://tech-fest-iit-bombay.vercel.app/) &nbsp;•&nbsp; [📸 Screenshots](#-screenshots) &nbsp;•&nbsp; [⚙️ Tech Stack](#%EF%B8%8F-tech-stack) &nbsp;•&nbsp; [🚀 Getting Started](#-getting-started)
 
 </div>
 
